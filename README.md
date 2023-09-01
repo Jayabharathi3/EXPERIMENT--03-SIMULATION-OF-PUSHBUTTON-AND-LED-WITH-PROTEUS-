@@ -182,14 +182,14 @@ void SystemClock_Config(void)
 
  ## LED ON STATE :
 
- ![Uploading pmc32.png…]()
+![pmc32](https://github.com/Jayabharathi3/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120367796/331e6613-c228-4fad-8514-bd203f0997e5)
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
 
- 
- 
+ ![image](https://github.com/Jayabharathi3/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120367796/dbc9c8aa-f381-4d77-acc0-76f0d5a26d6e)
+
  
  
 ## Result :
